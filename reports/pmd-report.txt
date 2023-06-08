@@ -1,0 +1,7 @@
+src/main/java/labcodeinspection/Email.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:51:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:53:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/labcodeinspection/Email.java:53:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/labcodeinspection/EmailApp.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
